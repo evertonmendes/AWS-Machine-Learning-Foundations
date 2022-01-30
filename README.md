@@ -8,9 +8,8 @@ Here I have notes and codes from my course in AWS and Udacity, called AWS Machin
  
 3. Third
 Here I have notes and codes about ML tools in AWS. Amazon's system is ready to deal with computer vision(CV), reinforcement learning(RL) and Generative AI problems. Each of these study types are used in AWS sessions like DeepLens(CV), DeepRacer(RL) and Deep Composer(Generative AI for music: AR-CNN, GAN's, Tranformers).
-  - [Link to clone a public repository for Generative AI](https://github.com/aws-samples/aws-deepcomposer-samples)
-  - 
-[Amazon SageMaker pricing documentation](https://aws.amazon.com/pt/sagemaker/pricing/)
+   - [Link to clone a public repository for Generative AI](https://github.com/aws-samples/aws-deepcomposer-samples) list item
+   - [Amazon SageMaker pricing documentation](https://aws.amazon.com/pt/sagemaker/pricing/) list item
 
 4. Fourth
 Notes and codes for Software Engineering Practices. Clean code, modular code, refactoring, efficient code, Inline comments, docstrings, Version Control
