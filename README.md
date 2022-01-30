@@ -24,9 +24,11 @@ Notes and Codes about OOP(Object-Oriented Programming) topics. Classes, Objects,
    - [Mixins for Fun and Profit](https://easyaspython.com/mixins-for-fun-and-profit-cb9962760556)
    - [Primer on Python Decorators](https://realpython.com/primer-on-python-decorators/)
 
-1. Observation
+Observation
 In "Sixth" is possible to find my Package that was upload to pip. My distribution handles both gaussian and binomial distributions, performing accounts and graphs for each of them.
 
    - [My distribution 'evt73-distributions'](https://pypi.org/project/evt73-distributions/)
-![alt text](https://github.com/evertonmendes/AWS-Machine-Learning-Foundations/blob/main/Distribution.png)
+
+
+   ![alt text](https://github.com/evertonmendes/AWS-Machine-Learning-Foundations/blob/main/Distribution.png)
 
