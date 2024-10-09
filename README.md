@@ -31,4 +31,4 @@ In "Sixth" is possible to find my Package that was upload to pip. My distributio
 
 
    ![alt text](https://github.com/evertonmendes/AWS-Machine-Learning-Foundations/blob/main/Distribution.png)
-
+   [![Downloads](https://static.pepy.tech/badge/evt73-distributions)](https://pepy.tech/project/evt73-distributions)
